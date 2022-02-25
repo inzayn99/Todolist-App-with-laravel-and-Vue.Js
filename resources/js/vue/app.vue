@@ -1,7 +1,9 @@
+<!-----------Html Code --------------->
 <template>
-<div>hello</div>
+    <div>VueJS</div>
 </template>
 
+<!----------Scripting---------->
 <script>
 export default {
 
